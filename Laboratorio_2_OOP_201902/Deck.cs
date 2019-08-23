@@ -7,7 +7,7 @@ namespace Laboratorio_2_OOP_201902
 {
     public class Deck
     {
-        private List<Card> deck;
+        private List<Card.Card> deck;
        
 
         public Deck()
@@ -15,7 +15,7 @@ namespace Laboratorio_2_OOP_201902
 
         }
 
-        public List<Card> Deck { get => deck; set => deck = value; }
+        public List<Card.Card> Deck1 { get => deck; set => deck = value; }
       
 
         public void AddCombatCard(CombatCard combatCard) { throw new NotImplementedException(); }

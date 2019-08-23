@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/LAB 3/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj": {}
+    "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/laboratorio-03-JoaquinPBarrientos/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj": {}
   },
   "projects": {
-    "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/LAB 3/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj": {
+    "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/laboratorio-03-JoaquinPBarrientos/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/LAB 3/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj",
+        "projectUniqueName": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/laboratorio-03-JoaquinPBarrientos/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj",
         "projectName": "Laboratorio_2_OOP_201902",
-        "projectPath": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/LAB 3/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj",
+        "projectPath": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/laboratorio-03-JoaquinPBarrientos/Laboratorio_2_OOP_201902/Laboratorio_2_OOP_201902.csproj",
         "packagesPath": "/Users/joaquinbarrientos/.nuget/packages/",
-        "outputPath": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/LAB 3/Laboratorio_2_OOP_201902/obj/",
+        "outputPath": "/Users/joaquinbarrientos/Desktop/Universidad/6.Sexto Semestre/POO/laboratorio-03-JoaquinPBarrientos/Laboratorio_2_OOP_201902/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
