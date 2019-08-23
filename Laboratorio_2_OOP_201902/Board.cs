@@ -50,52 +50,11 @@ namespace Laboratorio_2_OOP_201902
 
 
         //Metodos
-        
-            
-      
-     
-        }
-        public int[] GetMeleeAttackPoints()
-        {
-            //Debe sumar todos los puntos de ataque de las cartas melee y retornar los valores por jugador.
-            int[] totalAttack = new int[] { 0, 0 };
-            for (int i=0; i < 2; i++)
-            {
-                foreach (CombatCard meleeCard in meleeCards[i])
-                {
-                    totalAttack[i] += meleeCard.AttackPoints;
-                }
-            }
-            return totalAttack;
-            
-        }
-        public int[] GetRangeAttackPoints()
-        {
-            //Debe sumar todos los puntos de ataque de las cartas range y retornar los valores por jugador.
-            int[] totalAttack = new int[] { 0, 0 };
-            for (int i = 0; i < 2; i++)
-            {
-                foreach (CombatCard rangeCard in rangeCards[i])
-                {
-                    totalAttack[i] += rangeCard.AttackPoints;
-                }
-            }
-            return totalAttack;
-        }
-        public int[] GetLongRangeAttackPoints()
-        {
-            //Debe sumar todos los puntos de ataque de las cartas longRange y retornar los valores por jugador.
-            int[] totalAttack = new int[] { 0, 0 };
-            for (int i = 0; i < 2; i++)
-            {
-                foreach (CombatCard longRangeCard in longRangeCards[i])
-                {
-                    totalAttack[i] += longRangeCard.AttackPoints;
-                }
-            }
-            return totalAttack;
 
-        }
+
+
+
+
 
         //Metodo agregado por mi
 
@@ -123,6 +82,8 @@ namespace Laboratorio_2_OOP_201902
             {
 
             }
+
         }
+      }
     }
 
