@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B7D6ABEE-FBF0-42CF-8463-A1ED51DAECBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio_2_OOP_201902/Board.cs">
+    <Files>
+      <File FileName="Laboratorio_2_OOP_201902/Board.cs" Line="55" Column="23" />
+      <File FileName="Laboratorio_2_OOP_201902/Deck.cs" Line="15" Column="1" />
+      <File FileName="Laboratorio_2_OOP_201902/Card/SpecialCard.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_2_OOP_201902" expanded="True">
+            <Node name="Laboratorio_2_OOP_201902" expanded="True">
+              <Node name="Card" expanded="True" />
+              <Node name="Board.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Laboratorio_2_OOP_201902" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__2__OOP__201902 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
